@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636988442 source:c:\users\youcode\desktop\chalengec\les conditions\palindrome\palindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
