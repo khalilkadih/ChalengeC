@@ -23,7 +23,7 @@ if(heure1>heure2){
     check=2;
 }
 if(heure1==heure2 &&minute1==minute2){
-    check=2;
+    check=1;
 }
 if(heure1==heure2 &&minute1==minute2 && Seco1==Seco2){
     check=0;
